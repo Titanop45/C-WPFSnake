@@ -1,2 +1,2 @@
-# C-WPFSnake
+# WPFSnake
 For experience
